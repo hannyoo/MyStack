@@ -1,0 +1,15 @@
+/Users/yoohan/C#/MyStack_/MyStack_/obj/Debug/net7.0/MyStack_.csproj.AssemblyReference.cache
+/Users/yoohan/C#/MyStack_/MyStack_/obj/Debug/net7.0/MyStack_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yoohan/C#/MyStack_/MyStack_/obj/Debug/net7.0/MyStack_.AssemblyInfoInputs.cache
+/Users/yoohan/C#/MyStack_/MyStack_/obj/Debug/net7.0/MyStack_.AssemblyInfo.cs
+/Users/yoohan/C#/MyStack_/MyStack_/obj/Debug/net7.0/MyStack_.csproj.CoreCompileInputs.cache
+/Users/yoohan/C#/MyStack_/MyStack_/bin/Debug/net7.0/MyStack_
+/Users/yoohan/C#/MyStack_/MyStack_/bin/Debug/net7.0/MyStack_.deps.json
+/Users/yoohan/C#/MyStack_/MyStack_/bin/Debug/net7.0/MyStack_.runtimeconfig.json
+/Users/yoohan/C#/MyStack_/MyStack_/bin/Debug/net7.0/MyStack_.dll
+/Users/yoohan/C#/MyStack_/MyStack_/bin/Debug/net7.0/MyStack_.pdb
+/Users/yoohan/C#/MyStack_/MyStack_/obj/Debug/net7.0/MyStack_.dll
+/Users/yoohan/C#/MyStack_/MyStack_/obj/Debug/net7.0/refint/MyStack_.dll
+/Users/yoohan/C#/MyStack_/MyStack_/obj/Debug/net7.0/MyStack_.pdb
+/Users/yoohan/C#/MyStack_/MyStack_/obj/Debug/net7.0/MyStack_.genruntimeconfig.cache
+/Users/yoohan/C#/MyStack_/MyStack_/obj/Debug/net7.0/ref/MyStack_.dll
